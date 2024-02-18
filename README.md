@@ -34,7 +34,6 @@ This Python task delves into Object-Oriented Programming (OOP), covering:
 
 This Python task focuses on Regular Expressions (regex), covering:
 - Understanding the basics of regex patterns
-- Utilizing character classes and quantifiers
 - Extracting and manipulating text 
 
 # Task 5: Data Manipulation with NumPy and Pandas
