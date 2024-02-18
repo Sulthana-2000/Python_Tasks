@@ -44,6 +44,6 @@ This Python task focuses on data manipulation using two powerful libraries:
 - **Pandas:** Data manipulation library for handling structured data, offering powerful data structures like DataFrames.
 
 
-Explore these tasks to strengthen your grasp of fundamental Python data structures and programming constructs, python function creation, understanding of OOPs, pattern matching and text manipulation using regex(regular expressions), data manipulation with NumPy and Pandas.
+
 
 
