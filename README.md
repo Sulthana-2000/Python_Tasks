@@ -24,9 +24,6 @@ Dive deep into Python function definitions with this exercise:
 
 This Python task delves into Object-Oriented Programming (OOP), covering:
 - Defining classes and creating objects
-- Implementing inheritance for code reusability
-- Encapsulation for data protection
-- Polymorphism for versatile code behavior
 - Class methods and attributes
 
 
