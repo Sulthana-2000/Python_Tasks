@@ -15,7 +15,7 @@ This introductory Python task covers essential programming concepts with:
 Dive deep into Python function definitions with this exercise:
 - Default arguments for flexible function parameters
 - Creating inner functions
-- Unleashing the power of concise lambda functions
+- Lambda functions
 - Transforming data with the versatile `map()` function
 - Filtering data 
 - `reduce()` function
