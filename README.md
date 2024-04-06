@@ -46,7 +46,7 @@ This Python task focuses on data visualization using matplotlib:
 - Creating various types of plots, including line plots, scatter plots, bar plots, and histograms.
 - Customizing plot appearance with labels, titles, colors, and styles
 
-#  Task 7: Exploratory Data Analysis with Iris Dataset
+#  Iris(EDA): Exploratory Data Analysis with Iris Dataset
 
 This Python task focuses on exploratory data analysis (EDA) using the famous Iris dataset, covering:
 - Loading and examining the dataset
